@@ -1,0 +1,17 @@
+Effective Simracing – End User License Agreement (EULA)
+
+Copyright (c) 2024 Markus Maier  
+All Rights Reserved.
+
+This software and all its contents are proprietary and confidential.  
+Unauthorized copying, distribution, modification, or use of this software, in whole or in part, is strictly prohibited.
+
+You are granted a limited, non-exclusive, non-transferable license to use this software solely for your personal use.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO  
+THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,  
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Third-party components used in this software are subject to their respective licenses. See the included THIRD_PARTY_LICENSES.txt for details.
