@@ -65,8 +65,8 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 MarkupSafe
-3.0.2
-BSD License
+3.0.3
+UNKNOWN
 Copyright 2010 Pallets
 
 Redistribution and use in source and binary forms, with or without
@@ -179,7 +179,7 @@ IN THE SOFTWARE.
 
 
 anyio
-4.10.0
+4.11.0
 UNKNOWN
 The MIT License (MIT)
 
@@ -255,7 +255,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
 certifi
-2025.8.3
+2025.10.5
 Mozilla Public License 2.0 (MPL 2.0)
 This package contains a modified version of ca-bundle.crt:
 
@@ -280,14 +280,14 @@ one at http://mozilla.org/MPL/2.0/.
 
 
 cffi
-1.17.1
-MIT License
+2.0.0
+UNKNOWN
 
 Except when otherwise stated (look for LICENSE files in directories or
 information at the beginning of each file) all software and
 documentation is licensed as follows: 
 
-    The MIT License
+    MIT No Attribution
 
     Permission is hereby granted, free of charge, to any person 
     obtaining a copy of this software and associated documentation 
@@ -295,10 +295,7 @@ documentation is licensed as follows:
     restriction, including without limitation the rights to use, 
     copy, modify, merge, publish, distribute, sublicense, and/or 
     sell copies of the Software, and to permit persons to whom the 
-    Software is furnished to do so, subject to the following conditions:
-
-    The above copyright notice and this permission notice shall be included 
-    in all copies or substantial portions of the Software.
+    Software is furnished to do so.
 
     THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS 
     OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
@@ -311,8 +308,8 @@ documentation is licensed as follows:
 
 
 charset-normalizer
-3.4.2
-MIT License
+3.4.3
+MIT
 MIT License
 
 Copyright (c) 2025 TAHRI Ahmed R.
@@ -337,7 +334,7 @@ SOFTWARE.
 
 
 click
-8.2.1
+8.3.0
 UNKNOWN
 Copyright 2014 Pallets
 
@@ -501,7 +498,7 @@ SOFTWARE.
 
 
 fonttools
-4.59.0
+4.60.1
 MIT
 MIT License
 
@@ -603,11 +600,11 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 
 
 idna
-3.10
-BSD License
+3.11
+UNKNOWN
 BSD 3-Clause License
 
-Copyright (c) 2013-2024, Kim Davies and contributors.
+Copyright (c) 2013-2025, Kim Davies and contributors.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -698,7 +695,7 @@ SOFTWARE.
 
 
 kiwisolver
-1.4.8
+1.4.9
 BSD License
 =========================
  The Kiwi licensing terms
@@ -706,7 +703,7 @@ BSD License
 Kiwi is licensed under the terms of the Modified BSD License (also known as
 New or Revised BSD), as follows:
 
-Copyright (c) 2013-2024, Nucleic Development Team
+Copyright (c) 2013-2025, Nucleic Development Team
 
 All rights reserved.
 
@@ -765,7 +762,7 @@ With this in mind, the following banner should be used in any source code file
 to indicate the copyright and license terms:
 
 #------------------------------------------------------------------------------
-# Copyright (c) 2013-2024, Nucleic Development Team.
+# Copyright (c) 2013-2025, Nucleic Development Team.
 #
 # Distributed under the terms of the Modified BSD License.
 #
@@ -774,7 +771,7 @@ to indicate the copyright and license terms:
 
 
 marshmallow
-4.0.0
+4.0.1
 MIT License
 Copyright Steven Loria and contributors
 
@@ -959,7 +956,7 @@ DEALINGS IN THE SOFTWARE.
 
 
 numpy
-2.3.2
+2.3.3
 BSD License
 Copyright (c) 2005-2025, NumPy Developers.
 All rights reserved.
@@ -3634,8 +3631,42 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
+pybind11
+3.0.0
+UNKNOWN
+Copyright (c) 2016 Wenzel Jakob <wenzel.jakob@epfl.ch>, All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+3. Neither the name of the copyright holder nor the names of its contributors
+   may be used to endorse or promote products derived from this software
+   without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+Please also refer to the file .github/CONTRIBUTING.md, which clarifies licensing of
+external contributions to this project including patches, pull requests, etc.
+
+
 pycparser
-2.22
+2.23
 BSD License
 pycparser -- A C parser in Python
 
@@ -3667,7 +3698,7 @@ OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 pyinstaller
-6.15.0
+6.16.0
 GNU General Public License v2 (GPLv2)
 ================================
  The PyInstaller licensing terms
@@ -4308,7 +4339,7 @@ SOFTWARE.
 
 
 pyinstaller-hooks-contrib
-2025.8
+2025.9
 Apache Software License; GNU General Public License v2 (GPLv2)
 ============================================
 PyInstaller Community Hooks: License details
@@ -4863,8 +4894,8 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 
 
 pyparsing
-3.2.3
-MIT License
+3.2.5
+UNKNOWN
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
 "Software"), to deal in the Software without restriction, including
@@ -5002,7 +5033,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
 requests
-2.32.4
+2.32.5
 Apache Software License
 
                                  Apache License
@@ -5339,7 +5370,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
 typing_extensions
-4.14.1
+4.15.0
 UNKNOWN
 A. HISTORY OF THE SOFTWARE
 ==========================
@@ -5694,7 +5725,7 @@ limitations under the License.
 
 
 winregistry
-2.1.1
+2.1.2
 UNKNOWN
 MIT License
 
