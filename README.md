@@ -9,7 +9,7 @@ This repository provides **binary downloads** for the Windows training tool *Eff
 Download the latest version here:  
 👉 [Releases](https://github.com/m2themax/effective-simracing-releases/releases/latest)
 
-Current version: **0.4.9**  
+Current version: **0.4.10**  
 - Format: `.zip` with `.exe` inside  
 - OS: Windows 10/11 (64-bit)
 
