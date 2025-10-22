@@ -1,6 +1,6 @@
 Flask
 3.1.1
-UNKNOWN
+BSD-3-Clause
 Copyright 2010 Pallets
 
 Redistribution and use in source and binary forms, with or without
@@ -66,7 +66,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 MarkupSafe
 3.0.3
-UNKNOWN
+BSD-3-Clause
 Copyright 2010 Pallets
 
 Redistribution and use in source and binary forms, with or without
@@ -180,7 +180,7 @@ IN THE SOFTWARE.
 
 anyio
 4.11.0
-UNKNOWN
+MIT
 The MIT License (MIT)
 
 Copyright (c) 2018 Alex Grönholm
@@ -281,7 +281,7 @@ one at http://mozilla.org/MPL/2.0/.
 
 cffi
 2.0.0
-UNKNOWN
+MIT
 
 Except when otherwise stated (look for LICENSE files in directories or
 information at the beginning of each file) all software and
@@ -335,7 +335,7 @@ SOFTWARE.
 
 click
 8.3.0
-UNKNOWN
+BSD-3-Clause
 Copyright 2014 Pallets
 
 Redistribution and use in source and binary forms, with or without
@@ -552,7 +552,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 httpcore
 1.0.9
-BSD License
+BSD-3-Clause
 Copyright © 2020, [Encode OSS Ltd](https://www.encode.io/).
 All rights reserved.
 
@@ -601,7 +601,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 
 idna
 3.11
-UNKNOWN
+BSD-3-Clause
 BSD 3-Clause License
 
 Copyright (c) 2013-2025, Kim Davies and contributors.
@@ -925,7 +925,7 @@ Agreement.
 
 mypy_extensions
 1.1.0
-UNKNOWN
+MIT
 Mypy extensions are licensed under the terms of the MIT license, reproduced below.
 
 = = = = =
@@ -956,7 +956,7 @@ DEALINGS IN THE SOFTWARE.
 
 
 numpy
-2.3.3
+2.3.4
 BSD License
 Copyright (c) 2005-2025, NumPy Developers.
 All rights reserved.
@@ -1977,8 +1977,8 @@ SOFTWARE.
 
 
 pillow
-11.3.0
-UNKNOWN
+12.0.0
+MIT-CMU
 The Python Imaging Library (PIL) is
 
     Copyright © 1997-2011 by Secret Labs AB
@@ -2032,7 +2032,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
  
-===== freetype-2.13.3 ===== 
+===== freetype-2.14.1 ===== 
  
 FREETYPE LICENSES
 -----------------
@@ -2071,9 +2071,10 @@ in earlier FreeType versions.
 The gzip  module uses the  zlib license (see  `src/gzip/zlib.h`) which
 too is compatible to the above two licenses.
 
-The files `src/autofit/ft-hb.c` and `src/autofit/ft-hb.h` contain code
-taken almost  verbatim from the  HarfBuzz file `hb-ft.cc`,  which uses
-the 'Old MIT' license, compatible to the above two licenses.
+The   files   `src/autofit/ft-hb-ft.c`,   `src/autofit/ft-hb-decls.h`,
+`src/autofit/ft-hb-types.h`,     and    `src/autofit/hb-script-list.h`
+contain code taken (almost) verbatim  from the HarfBuzz library, which
+uses the 'Old MIT' license compatible to the above two licenses.
 
 The  MD5 checksum  support  (only used  for  debugging in  development
 builds) is in the public domain.
@@ -2131,7 +2132,7 @@ Introduction
 
    """
     Portions of this software are copyright © <year> The FreeType
-    Project (www.freetype.org).  All rights reserved.
+    Project (https://freetype.org).  All rights reserved.
    """
 
   Please replace <year> with the value from the FreeType version you
@@ -2245,7 +2246,7 @@ Legal Terms
 
   Our home page can be found at
 
-    https://www.freetype.org
+    https://freetype.org
 
 
 --- end of FTL.TXT ---
@@ -2590,7 +2591,7 @@ consider it more useful to permit linking proprietary applications with the
 library.  If this is what you want to do, use the GNU Library General
 Public License instead of this License.
  
-===== harfbuzz-11.2.1 ===== 
+===== harfbuzz-12.1.0 ===== 
  
 HarfBuzz is licensed under the so-called "Old MIT" license.  Details follow.
 For parts of HarfBuzz that are licensed under different licenses see individual
@@ -3050,7 +3051,7 @@ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  
-===== libjpeg-turbo-3.1.1 ===== 
+===== libjpeg-turbo-3.1.2 ===== 
  
 LEGAL ISSUES
 ============
@@ -3197,7 +3198,7 @@ intended solely for clarification.
 The Modified (3-clause) BSD License
 ===================================
 
-Copyright (C)2009-2024 D. R. Commander.  All Rights Reserved.<br>
+Copyright (C)2009-2025 D. R. Commander.  All Rights Reserved.<br>
 Copyright (C)2015 Viktor Szathmáry.  All Rights Reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -3237,7 +3238,7 @@ attribution and endorsement protections to other entities.  Thus, it was
 desirable to choose a license that granted us the same protections for new code
 that were granted to the IJG for code derived from their software.
  
-===== libpng-1.6.49 ===== 
+===== libpng-1.6.50 ===== 
  
 COPYRIGHT NOTICE, DISCLAIMER, and LICENSE
 =========================================
@@ -3374,7 +3375,7 @@ to supporting the PNG file format in commercial products.  If you use
 this source code in a product, acknowledgment is not required but would
 be appreciated.
  
-===== libwebp-1.5.0 ===== 
+===== libwebp-1.6.0 ===== 
  
 Copyright (c) 2010, Google Inc. All rights reserved.
 
@@ -3407,7 +3408,7 @@ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
  
-===== openjpeg-2.5.3 ===== 
+===== openjpeg-2.5.4 ===== 
  
 /*
  * The copyright in this software is being made available under the 2-clauses 
@@ -3449,7 +3450,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  * POSSIBILITY OF SUCH DAMAGE.
  */
  
-===== tiff-4.7.0 ===== 
+===== tiff-4.7.1 ===== 
  
 # LibTIFF license
 
@@ -3474,6 +3475,32 @@ OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS,
 WHETHER OR NOT ADVISED OF THE POSSIBILITY OF DAMAGE, AND ON ANY THEORY OF 
 LIABILITY, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE 
 OF THIS SOFTWARE.
+
+# Lempel-Ziv & Welch Compression (tif_lzw.c) license
+The code of tif_lzw.c is derived from the compress program whose code is
+derived from software contributed to Berkeley by James A. Woods,
+derived from original work by Spencer Thomas and Joseph Orost.
+
+The original Berkeley copyright notice appears below in its entirety:
+
+Copyright (c) 1985, 1986 The Regents of the University of California.
+All rights reserved.
+
+This code is derived from software contributed to Berkeley by
+James A. Woods, derived from original work by Spencer Thomas
+and Joseph Orost.
+
+Redistribution and use in source and binary forms are permitted
+provided that the above copyright notice and this paragraph are
+duplicated in all such forms and that any documentation,
+advertising materials, and other materials related to such
+distribution and use acknowledge that the software was developed
+by the University of California, Berkeley.  The name of the
+University may not be used to endorse or promote products derived
+from this software without specific prior written permission.
+THIS SOFTWARE IS PROVIDED ``AS IS'' AND WITHOUT ANY EXPRESS OR
+IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED
+WARRANTIES OF MERCHANTIBILITY AND FITNESS FOR A PARTICULAR PURPOSE.
  
 ===== xz-5.8.1 ===== 
  
@@ -3548,7 +3575,7 @@ XZ Utils Licensing
     The contact information is in the README file.
 
  
-===== zlib-ng-2.2.4 ===== 
+===== zlib-ng-2.2.5 ===== 
  
 (C) 1995-2024 Jean-loup Gailly and Mark Adler
 
@@ -3633,7 +3660,7 @@ SOFTWARE.
 
 pybind11
 3.0.0
-UNKNOWN
+BSD-3-Clause
 Copyright (c) 2016 Wenzel Jakob <wenzel.jakob@epfl.ch>, All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -4895,7 +4922,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 
 pyparsing
 3.2.5
-UNKNOWN
+MIT
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
 "Software"), to deal in the Software without restriction, including
@@ -5322,7 +5349,7 @@ SOFTWARE.
 
 typeguard
 4.4.4
-UNKNOWN
+MIT
 This is the MIT license: http://www.opensource.org/licenses/mit-license.php
 
 Copyright (c) Alex Grönholm
@@ -5371,7 +5398,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 typing_extensions
 4.15.0
-UNKNOWN
+PSF-2.0
 A. HISTORY OF THE SOFTWARE
 ==========================
 
@@ -5655,7 +5682,7 @@ PERFORMANCE OF THIS SOFTWARE.
 
 urllib3
 2.5.0
-UNKNOWN
+MIT
 MIT License
 
 Copyright (c) 2008-2020 Andrey Petrov and contributors.
@@ -5726,7 +5753,7 @@ limitations under the License.
 
 winregistry
 2.1.2
-UNKNOWN
+MIT
 MIT License
 
  Permission is hereby granted, free of charge, to any person obtaining
